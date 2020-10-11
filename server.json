@@ -23,6 +23,20 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/kT4zmJmbJ0Q/maxresdefault.jpg",
+      "name": "asdas",
+      "price": "10.00",
+      "description": "asdasdasdasdas",
+      "id": 4
+    },
+    {
+      "image": "https://i.ytimg.com/vi/kT4zmJmbJ0Q/maxresdefault.jpg",
+      "name": "Um prato legal",
+      "price": "20.00",
+      "description": "Boa!",
+      "id": 5
     }
   ]
 }
